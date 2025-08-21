@@ -1,4 +1,4 @@
-name: Teste PHP Burro
+name: Teste PHP
 
 on:
   workflow_dispatch:
